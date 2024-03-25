@@ -1,0 +1,4 @@
+D:\2_AMS\ams24\AMS2A.ClassObject\obj\Debug\net7.0\AMS2A.ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_AMS\ams24\AMS2A.ClassObject\obj\Debug\net7.0\AMS2A.ClassObject.AssemblyInfoInputs.cache
+D:\2_AMS\ams24\AMS2A.ClassObject\obj\Debug\net7.0\AMS2A.ClassObject.AssemblyInfo.cs
+D:\2_AMS\ams24\AMS2A.ClassObject\obj\Debug\net7.0\AMS2A.ClassObject.csproj.CoreCompileInputs.cache
